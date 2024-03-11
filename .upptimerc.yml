@@ -8,13 +8,13 @@ sites:
   - name: Tracking Dashboard
     url: https://app.wetrackit.com.au
   - name: Devices - Teltonika Support
+    check: "tcp-ping"
     url: data.wetrackit.com.au
     port: 6027
-    check: "tcp-ping"
   - name: Devices - TopFlyTech Support
+    check: "tcp-ping"
     url: data.wetrackit.com.au
     port: 6047
-    check: "tcp-ping"    
   - name: [LEGACY] Tracking Dashboard
     url: https://dashboard.wetrackit.com.au
 
