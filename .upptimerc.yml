@@ -23,14 +23,16 @@ status-website:
   cname: status.wetrackit.com.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: We Track IT
-  introTitle: "*We Track IT** is the Terrtory's leading telematics provider"
-navbar:
+  introTitle: "*We Track IT** is the Territory's leading telematics provider"
+  navbar:
+    - title: Status
+      href: /
     - title: Website
       href: https://www.wetrackit.com.au
     - title: Dashboard
       href: https://app.wetrackit.com.au
-    - title: iOS Download
+    - title: iOS
       href: https://apps.apple.com/au/app/we-track-it/id6449930972
-    - title: Android Download
+    - title: Android
       href: https://play.google.com/store/apps/details?id=com.WeTrackITclient.android
 
