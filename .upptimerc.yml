@@ -15,7 +15,7 @@ sites:
     check: "tcp-ping"
     url: data.wetrackit.com.au
     port: 6047
-  - name: [LEGACY] Tracking Dashboard
+  - name: LEGACY Tracking Dashboard
     url: https://dashboard.wetrackit.com.au
 
 status-website:
