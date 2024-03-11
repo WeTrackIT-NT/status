@@ -27,12 +27,12 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Website
-      href: https://www.wetrackit.com.au
     - title: Dashboard
       href: https://app.wetrackit.com.au
-    - title: iOS
+    - title: Feedback
+      href: https://wetrackit.canny.io
+    - title: iOS App
       href: https://apps.apple.com/au/app/we-track-it/id6449930972
-    - title: Android
+    - title: Android App
       href: https://play.google.com/store/apps/details?id=com.WeTrackITclient.android
 
