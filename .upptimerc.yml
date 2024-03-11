@@ -19,8 +19,7 @@ sites:
     url: https://dashboard.wetrackit.com.au
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   cname: status.wetrackit.com.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: We Track IT
@@ -35,5 +34,3 @@ navbar:
     - title: Android Download
       href: https://play.google.com/store/apps/details?id=com.WeTrackITclient.android
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
