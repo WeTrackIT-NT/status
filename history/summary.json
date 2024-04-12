@@ -22,9 +22,9 @@
     "url": "https://app.wetrackit.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.wetrackit.com.au.ico",
     "slug": "tracking-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 963,
     "timeMonth": 1002,
     "timeYear": 993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   },
   {
     "name": "Devices - Teltonika Support",
@@ -89,9 +91,9 @@
     "url": "https://dashboard.wetrackit.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.wetrackit.com.au.ico",
     "slug": "legacy-tracking-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,6 +102,8 @@
     "timeWeek": 693,
     "timeMonth": 657,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   }
 ]
