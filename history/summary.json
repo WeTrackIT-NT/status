@@ -24,9 +24,9 @@
     "url": "https://app.wetrackit.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.wetrackit.com.au.ico",
     "slug": "tracking-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -36,6 +36,7 @@
     "timeMonth": 1053,
     "timeYear": 1025,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-04-12": 19
     }
   },
@@ -45,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "devices-teltonika-support",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 195,
     "timeDay": 218,
     "timeWeek": 198,
@@ -95,9 +96,9 @@
     "url": "https://dashboard.wetrackit.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.wetrackit.com.au.ico",
     "slug": "legacy-tracking-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -107,6 +108,7 @@
     "timeMonth": 667,
     "timeYear": 656,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-04-12": 19
     }
   }
