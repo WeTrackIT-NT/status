@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 4542,
-    "timeDay": 3853,
-    "timeWeek": 5510,
-    "timeMonth": 4783,
-    "timeYear": 4542,
+    "time": 4550,
+    "timeDay": 5106,
+    "timeWeek": 5240,
+    "timeMonth": 4715,
+    "timeYear": 4550,
     "dailyMinutesDown": {
       "2024-04-21": 18
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1022,
-    "timeDay": 925,
-    "timeWeek": 1004,
-    "timeMonth": 1054,
+    "timeDay": 1005,
+    "timeWeek": 962,
+    "timeMonth": 1051,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2024-04-12": 19
@@ -45,14 +45,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "devices-teltonika-support",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 195,
-    "timeDay": 159,
-    "timeWeek": 189,
+    "timeDay": 206,
+    "timeWeek": 188,
     "timeMonth": 190,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -79,9 +79,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 197,
-    "timeDay": 159,
-    "timeWeek": 193,
-    "timeMonth": 191,
+    "timeDay": 207,
+    "timeWeek": 191,
+    "timeMonth": 190,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2024-04-29": 18,
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 659,
-    "timeDay": 652,
-    "timeWeek": 682,
-    "timeMonth": 655,
-    "timeYear": 659,
+    "time": 660,
+    "timeDay": 684,
+    "timeWeek": 679,
+    "timeMonth": 651,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-04-12": 19
     }
