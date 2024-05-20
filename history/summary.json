@@ -13,7 +13,7 @@
     "time": 4742,
     "timeDay": 6284,
     "timeWeek": 6404,
-    "timeMonth": 5160,
+    "timeMonth": 5200,
     "timeYear": 4742,
     "dailyMinutesDown": {
       "2024-04-21": 18
@@ -33,7 +33,7 @@
     "time": 1023,
     "timeDay": 1103,
     "timeWeek": 1010,
-    "timeMonth": 1054,
+    "timeMonth": 1052,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2024-04-12": 19
@@ -45,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "devices-teltonika-support",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.76%",
     "time": 194,
     "timeDay": 214,
     "timeWeek": 186,
-    "timeMonth": 190,
+    "timeMonth": 189,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-05-19": 10,
       "2024-05-12": 21,
       "2024-05-05": 20,
       "2024-04-09": 28,
@@ -82,7 +81,7 @@
     "time": 197,
     "timeDay": 215,
     "timeWeek": 189,
-    "timeMonth": 191,
+    "timeMonth": 190,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2024-05-16": 23,
@@ -107,7 +106,7 @@
     "time": 659,
     "timeDay": 678,
     "timeWeek": 653,
-    "timeMonth": 652,
+    "timeMonth": 650,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2024-04-12": 19
