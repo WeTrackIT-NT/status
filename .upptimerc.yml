@@ -23,7 +23,7 @@ status-website:
   cname: status.wetrackit.com.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: We Track IT
-  introTitle: "*We Track IT** is the Territory's leading telematics provider"
+  introTitle: "**We Track IT** is the Territory's leading telematics provider"
   navbar:
     - title: Status
       href: /
