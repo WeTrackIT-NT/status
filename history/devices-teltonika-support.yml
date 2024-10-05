@@ -1,7 +1,7 @@
 url: $DATA_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-05T08:00:12.350Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2024-10-05T08:28:52.538Z
 startTime: 2024-03-11T05:11:53.687Z
 generator: Upptime <https://github.com/upptime/upptime>
