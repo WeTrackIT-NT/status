@@ -44,9 +44,9 @@
     "url": "https://app.wetrackit.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/app.wetrackit.com.au.ico",
     "slug": "tracking-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
@@ -56,6 +56,7 @@
     "timeMonth": 1039,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2025-01-25": 0,
       "2024-11-25": 20,
       "2024-11-22": 30,
       "2024-11-05": 28,
@@ -166,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-01-25": 70,
+      "2025-01-25": 136,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
