@@ -15,8 +15,6 @@ sites:
     check: "tcp-ping"
     url: $DATA_URL
     port: $TOPFLYTECH_PORT
-  - name: LEGACY Tracking Dashboard
-    url: https://dashboard.wetrackit.com.au
 
 status-website:
   theme: dark
