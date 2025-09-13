@@ -4,12 +4,12 @@
     "url": "https://www.wetrackit.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.wetrackit.com.au.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "77.84%",
-    "uptimeDay": "2.34%",
-    "uptimeWeek": "1.36%",
+    "uptimeDay": "3.21%",
+    "uptimeWeek": "1.49%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.50%",
+    "uptimeYear": "66.51%",
     "time": 4987,
     "timeDay": 655,
     "timeWeek": 625,
@@ -153,7 +153,7 @@
       "2024-12-08": 20,
       "2024-12-06": 55,
       "2024-11-25": 18,
-      "2024-11-24": 40
+      "2024-11-24": 23
     }
   },
   {
@@ -163,9 +163,9 @@
     "slug": "tracking-dashboard",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "9.80%",
-    "uptimeWeek": "87.11%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "8.92%",
+    "uptimeWeek": "86.99%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.21%",
     "time": 1115,
     "timeDay": 609,
@@ -173,7 +173,7 @@
     "timeMonth": 1585,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-09-13": 1299,
+      "2025-09-13": 1312,
       "2025-08-22": 26,
       "2025-08-04": 17,
       "2025-06-03": 77,
