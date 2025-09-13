@@ -1,7 +1,7 @@
 url: https://app.wetrackit.com.au
-status: up
-code: 200
-responseTime: 1291
-lastUpdated: 2025-09-12T23:10:32.465Z
+status: down
+code: 500
+responseTime: 651
+lastUpdated: 2025-09-13T01:48:40.531Z
 startTime: 2024-03-11T05:11:52.367Z
 generator: Upptime <https://github.com/upptime/upptime>
