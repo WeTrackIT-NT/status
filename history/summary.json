@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wetrackit.com.au.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "81.99%",
-    "uptimeDay": "3.81%",
-    "uptimeWeek": "2.80%",
+    "uptime": "81.94%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "2.56%",
     "uptimeMonth": "0.17%",
-    "uptimeYear": "70.28%",
-    "time": 4387,
-    "timeDay": 661,
-    "timeWeek": 718,
+    "uptimeYear": "70.17%",
+    "time": 4393,
+    "timeDay": 748,
+    "timeWeek": 708,
     "timeMonth": 661,
-    "timeYear": 4071,
+    "timeYear": 4060,
     "dailyMinutesDown": {
-      "2025-11-03": 981,
+      "2025-11-04": 86,
+      "2025-11-03": 1428,
       "2025-11-02": 1327,
       "2025-11-01": 1416,
       "2025-10-31": 1440,
@@ -140,10 +141,10 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.22%",
-    "time": 1149,
-    "timeDay": 991,
-    "timeWeek": 1185,
-    "timeMonth": 1649,
+    "time": 1150,
+    "timeDay": 1090,
+    "timeWeek": 1195,
+    "timeMonth": 1658,
     "timeYear": 1180,
     "dailyMinutesDown": {
       "2025-11-03": 35,
@@ -177,9 +178,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.78%",
     "time": 194,
-    "timeDay": 160,
-    "timeWeek": 175,
-    "timeMonth": 190,
+    "timeDay": 204,
+    "timeWeek": 181,
+    "timeMonth": 191,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-10-21": 25,
@@ -210,8 +211,7 @@
       "2024-12-10": 66,
       "2024-12-09": 54,
       "2024-12-07": 29,
-      "2024-11-18": 51,
-      "2024-11-04": 53
+      "2024-11-18": 51
     }
   },
   {
@@ -226,9 +226,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
     "time": 192,
-    "timeDay": 160,
-    "timeWeek": 179,
-    "timeMonth": 192,
+    "timeDay": 206,
+    "timeWeek": 184,
+    "timeMonth": 193,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-10-28": 73,
@@ -237,8 +237,7 @@
       "2025-03-10": 36,
       "2025-03-08": 24,
       "2025-02-22": 24,
-      "2024-11-30": 26,
-      "2024-11-04": 53
+      "2024-11-30": 26
     }
   }
 ]
