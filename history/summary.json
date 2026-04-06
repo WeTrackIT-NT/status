@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wetrackit.com.au.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "87.94%",
+    "uptime": "88.06%",
     "uptimeDay": "5.46%",
     "uptimeWeek": "5.00%",
     "uptimeMonth": "1.14%",
-    "uptimeYear": "75.02%",
+    "uptimeYear": "75.26%",
     "time": 2568,
     "timeDay": 436,
     "timeWeek": 527,
     "timeMonth": 528,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2026-04-05": 1327,
+      "2026-04-06": 150,
+      "2026-04-05": 1361,
       "2026-04-04": 1408,
       "2026-04-03": 1238,
       "2026-04-02": 1392,
@@ -109,8 +110,7 @@
       "2026-01-05": 1440,
       "2026-01-04": 1288,
       "2026-01-03": 1325,
-      "2026-01-02": 1417,
-      "2026-01-01": 152
+      "2026-01-02": 111
     }
   },
   {
@@ -127,8 +127,8 @@
     "time": 1316,
     "timeDay": 718,
     "timeWeek": 998,
-    "timeMonth": 2058,
-    "timeYear": 1389,
+    "timeMonth": 2093,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2026-03-27": 117,
       "2026-03-22": 1378,
@@ -171,7 +171,7 @@
     "time": 191,
     "timeDay": 159,
     "timeWeek": 191,
-    "timeMonth": 195,
+    "timeMonth": 196,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-03-25": 26,
@@ -222,7 +222,7 @@
     "time": 190,
     "timeDay": 160,
     "timeWeek": 190,
-    "timeMonth": 196,
+    "timeMonth": 197,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2026-03-20": 21,
